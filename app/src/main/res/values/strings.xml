@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CoNav</string>
+    <string name="facebook_app_id">424761534758050</string>
+    <string name="fb_login_protocol_scheme">fb424761534758050</string>
+    <string name="Open"></string>
+    <string name="Close"></string>
+    <string name="title_activity_contact">ContactActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>

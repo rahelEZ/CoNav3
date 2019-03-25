@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "789921529361",
+    "firebase_url": "https://conav-9becb.firebaseio.com",
+    "project_id": "conav-9becb",
+    "storage_bucket": "conav-9becb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789921529361:android:8b46ef99f236cdce",
+        "android_client_info": {
+          "package_name": "com.example.conav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789921529361-lh110djsr0ga7o8ectuhomuf4gl25ki4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.conav",
+            "certificate_hash": "1f1830c450850979d03bd6180f663a885575b97e"
+          }
+        },
+        {
+          "client_id": "789921529361-hcft3qhl7fggbbr4rk0fddpnla87o8sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlmj62JrqYfLX_TWnxtF1nivxd932yD6o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789921529361-hcft3qhl7fggbbr4rk0fddpnla87o8sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
